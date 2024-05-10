@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumya</h1>
-<h3 align="center">I dunno how to code</h3>
+<h3 align="center">Cloud Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyaa16&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaa16" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kdsoumya10@gmail.com**
 
-- ⚡ Fun fact **ahahahahahaha is my language**
+- ⚡ Vaii Internship dedo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
