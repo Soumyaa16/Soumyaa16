@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumya</h1>
-<h3 align="center">Cloud Computing</h3>
+<h3 align="center">Cloud Engineer/Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyaa16&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaa16" /> </p>
 
@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **kdsoumya10@gmail.com**
 
-- ⚡ Vaii Internship dedo**
+- ⚡ Mastering DSA
+
+  
 
 <h3 align="left">Let's Connect 🤝 </h3>
 <p align="left">
