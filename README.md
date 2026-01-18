@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Soumya</h1>
+<h1 align="center">Hi there, I'm Soumya👋</h1>
 <h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyaa16&label=Profile%20views&color=0e75b6&style=flat" alt="soumyaa16" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **kdsoumya10@gmail.com**
+- 📫 Reach out to me at: **kdsoumya10@gmail.com**
 
 - ⚡ Mastering DSA
 
