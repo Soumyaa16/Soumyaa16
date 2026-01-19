@@ -13,7 +13,7 @@
 
 <h3 align="left">Let's Connect 🤝 </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/soumyad10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya dubey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumyad10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya dubey" height="50" width="60" /></a>
 <a href="https://instagram.com/soumyaya._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyaya._" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@soumyadubey2506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soumya dubey" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kdsoumya10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kdsoumya10" height="30" width="40" /></a>
