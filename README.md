@@ -19,11 +19,12 @@
 <a href="https://www.codechef.com/users/kdsoumya10" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg"
-    alt="CodeChef"
     height="32"
-    style="filter: invert(1);"
+    style="filter: invert(100%);"
+    alt="CodeChef"
   />
 </a>
+
 <a href="https://www.hackerrank.com/kdsoumya10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kdsoumya10" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/soumya_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumya_d" height="40" width="50" /></a>
 </p>
