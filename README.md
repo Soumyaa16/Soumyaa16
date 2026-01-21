@@ -18,9 +18,8 @@
 <a href="https://www.youtube.com/@soumyadubey2506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soumya dubey" height="40" width="50" /></a>
 <a href="https://www.codechef.com/users/kdsoumya10" target="_blank" rel="noreferrer">
   <img
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg"
+    src="https://upload.wikimedia.org/wikipedia/en/7/7b/Codechef_logo.svg"
     height="32"
-    style="filter: invert(100%);"
     alt="CodeChef"
   />
 </a>
