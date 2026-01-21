@@ -16,12 +16,8 @@
 <a href="https://www.linkedin.com/in/soumyad10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya dubey" height="40" width="50" /></a>
 <a href="https://instagram.com/soumyaya._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyaya._" height="40" width="50" /></a>
 <a href="https://www.youtube.com/@soumyadubey2506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soumya dubey" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/kdsoumya10" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.png"
-    height="32"
-    alt="CodeChef"
-  />
+<a href="https://www.codechef.com/users/kdsoumya10" target="_blank">
+  <img src="assets/codechef.png" height="32" alt="CodeChef"/>
 </a>
 
 <a href="https://www.hackerrank.com/kdsoumya10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kdsoumya10" height="40" width="50" /></a>
